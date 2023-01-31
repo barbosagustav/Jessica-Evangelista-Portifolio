@@ -152,7 +152,8 @@ article img {
 
 #formulario input {
         height: 30px;
-        border-radius: 7px;}
+        border-radius: 7px;
+        border: 1px solid #e88f7d;}
 
 #formulario input[type="submit"] {
         margin-top: 10px;
